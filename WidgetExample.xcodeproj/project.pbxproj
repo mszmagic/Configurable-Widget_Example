@@ -81,6 +81,7 @@
 		DA63CE9E2530FB740097903B /* CatEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatEntry.swift; sourceTree = "<group>"; };
 		DA63CEA32530FB8C0097903B /* CatWidgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatWidgetView.swift; sourceTree = "<group>"; };
 		DA63CEAE2530FBC60097903B /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
+		DA63CEBF2530FDDD0097903B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				DA63CDCA2530AAA30097903B /* WidgetExampleApp.swift */,
+				DA63CEBF2530FDDD0097903B /* README.md */,
 				DA63CDCC2530AAA30097903B /* ContentView.swift */,
 				DA63CDCE2530AAA40097903B /* Assets.xcassets */,
 				DA63CDD82530AAA40097903B /* Info.plist */,
